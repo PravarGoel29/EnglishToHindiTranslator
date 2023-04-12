@@ -1,5 +1,5 @@
 # EnglishToHindiTranslator
-A machine model to translate english to hindi.
+A machine learning model to translate english to hindi.
 
 This code is an implementation of a language translation model using an Encoder-Decoder architecture with an attention mechanism. The model is trained on a dataset of English and Hindi sentences. The code preprocesses the data by removing special characters, digits, and punctuation, and adds start and end tokens to the target sequences. The cleaned dataset is split into training and testing sets.
 
